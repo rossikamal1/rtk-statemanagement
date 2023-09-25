@@ -8,14 +8,14 @@ redux toolkit state management
 
 --how to use reducer/store from react app ?
 
-see the use of following especially
+ use of following especially
 
    -configureStore
 
    -createslice
    
-   -useselector,
+   -useselector
    
-    -usedispatcher,
+    -usedispatcher
     
      -provider
